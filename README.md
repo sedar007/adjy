@@ -29,7 +29,7 @@ Pour voir l'ensemble de mes projets, rendez-vous dans l'onglet "Repositories" ci
 
 ## Contact
 
-📫 Vous pouvez me contacter par [e-mail](mailto:desiradjysedar20@gmail.com) ou via [LinkedIn](https://www.linkedin.com/in/adjy-sedar-desir-b261a0229/).
+📫 Vous pouvez me contacter par [![Logo Mail](lien_vers_le_logo)](mailto:desiradjysedar20@gmail.com) ,  [![Logo LinkedIn](lien_vers_le_logo)](https://www.linkedin.com/in/adjy-sedar-desir-b261a0229/).
 
 <!-- ## Contribuer
 
