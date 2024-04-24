@@ -4,7 +4,7 @@ Salut ! Je suis Sédar, un passionné de développement qui aime explorer de nou
 
 - 💻 Développeur
 - 🌱 Toujours en quête d'apprentissage et de perfectionnement
-- 🚀 Passionné par le développement web, les applications mobiles et l'intelligence artificielle
+- 🚀 Passionné par le développement d'applications, web et l'intelligence artificielle
 
 <!-- ## Projets
 
