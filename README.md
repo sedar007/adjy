@@ -17,17 +17,14 @@ Voici un aperçu de quelques-uns de mes projets :
 Pour voir l'ensemble de mes projets, rendez-vous dans l'onglet "Repositories" ci-dessus !-->
 
 ## Technologies préférées
-
 - C++
+- C#
 - Java
-- Php
 - Angular
-- Spring Boot
-
 
 ## Contact
 
-📫 Vous pouvez me contacter par [e-mail](mailto:desiradjysedar20@gmail.com) ou via [LinkedIn](https://www.linkedin.com/in/adjy-sedar-desir-b261a0229/).
+📫 Vous pouvez me contacter par [e-mail](mailto:desiradjysedar20@gmail.com) ou via [LinkedIn](https://www.linkedin.com/in/adjy-sedar-desir/).
 
 <!-- ## Contribuer
 
