@@ -68,5 +68,5 @@ Huge thanks to everyone who shares knowledge, supports open source, and contribu
 
 ## 📄 License
 
-Unless stated otherwise, all my projects are released under the [MIT License](link_to_license).
+Unless stated otherwise, all my projects are released under the MIT License.
 
