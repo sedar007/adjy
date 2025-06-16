@@ -19,7 +19,7 @@ I’m a **passionate developer** who loves exploring new technologies, solving c
 - 💠 **C++**
 - 💠 **C#**
 - ☕ **Java**
-- 🌐 **Angular**
+- 🌐 **React**
 
 ---
 
